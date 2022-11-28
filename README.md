@@ -1,6 +1,2 @@
-<!文档类型 html>
-<.html>
-    <头>
-        <imgsrc=“./邵.jpg”id=“background”width=“200”height=“250"/>
-    </头>
-</.html>
+![邵](https://user-images.githubusercontent.com/119164840/204238841-3587e72c-ea5f-4fbd-b65d-1be4a889df5a.jpg)
+
