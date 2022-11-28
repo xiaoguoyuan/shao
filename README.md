@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
     <head>
     <a href="./邵.html"><img border="1" src="./邵.jpg" width="80" height="100"/></a>
